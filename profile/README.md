@@ -1,14 +1,7 @@
-## Petwalk 프로젝트👋
+## 무지개 프로젝트👋
 
-애완견 산책 프로젝트
+'무지개'는 반려견과의 이별을 생각하는 모든 이들을 위로하기 위해 기획된 앱 서비스입니다.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+매일 랜덤 질문: 매일매일 유저에게 랜덤한 질문을 던져, 반려견과의 일상을 새로운 시각에서 기록할 수 있도록 돕습니다. 이 질문들은 이후 실물 앨범 제작에 활용됩니다.
+일기 작성: 반려견과 관련된 일기를 사진과 함께 작성할 수 있습니다. 하루하루의 소중한 추억을 남겨보세요.
+30일 챌린지: 30일간 매일 일기를 작성한 유저에게는 그 일기 데이터를 기반으로 한 아름다운 실물 앨범을 제작해드립니다.
